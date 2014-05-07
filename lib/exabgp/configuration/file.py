@@ -1073,6 +1073,7 @@ class Configuration (object):
 
 			changes = local_scope.get('announce',[])
 			messages = local_scope.get('operational',[])
+			neighbor.set_identificator()
 
 		for local_scope in (scope[0],scope[-1]):
 			neighbor.api.receive_packets |= local_scope.get('receive-packets',False)
