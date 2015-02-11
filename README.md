@@ -22,6 +22,8 @@ Find what users have [done with it](https://github.com/Exa-Networks/exabgp/wiki/
 
 ##Features
 
+[![Join the chat at https://gitter.im/thomas-mangin/exabgp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thomas-mangin/exabgp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Extensive RFC support
 
 **ASN4** [RFC 4893](http://www.ietf.org/rfc/rfc4893.txt) /
